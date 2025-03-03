@@ -20,6 +20,7 @@ class Main:
         print(Y.shape)
         print("--------------")
 
+        #CREATION OF a DEEP LEARNING MODEL in a STATIC WAY
 
 
         
